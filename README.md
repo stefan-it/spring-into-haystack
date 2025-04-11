@@ -41,7 +41,6 @@ For more info, check out [Spring Into Haystack](https://haystack.deepset.ai/spri
 
 ### Requirements:
 
-- An [OpenAI API Key](https://platform.openai.com/api-keys) (if you're using `OpenAIChatGenerator`)
 - A [GitHub Token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens) with relevant permissions
 
 ### Install Dependencies
@@ -55,5 +54,4 @@ pip install -r requirements.txt
 
 - [`Agent`](https://docs.haystack.deepset.ai/docs/agent) – component for the smart decision-maker
 - [`MCPTool`](https://docs.haystack.deepset.ai/docs/mcptool) – lets your agent talk to the MCP Server
-- [`OpenAIChatGenerator`](https://docs.haystack.deepset.ai/docs/openaichatgenerator) or another Haystack-supported [Generator](https://docs.haystack.deepset.ai/docs/generators)
 
