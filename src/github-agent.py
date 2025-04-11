@@ -27,11 +27,10 @@ agent = Agent(
 
 print("Agent created")
 
-## Queries to test your agent
+## Example query to test your agent
 user_input = "Can you find the typo in the README of <owner/repo> and open an issue about how to fix it?"
-user_input = "Can you check the README of <owner/repo> for a typo and open an issue with a suggested fix?"
 
-## (OPTIONAL) TODO: Add other example queries that can be resolved with this Agent
+## (OPTIONAL) Feel free to add other example queries that can be resolved with this Agent
 
 response = agent.run(messages=[ChatMessage.from_user(text=user_input)])
 
