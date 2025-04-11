@@ -1,5 +1,3 @@
-# Haystack Github Agent
-
 <p align="center">
 <img width="300" alt="Spring into haystack logo with flowers, bee and butterfly on the logo, giving spring vibes" src="/logo/spring-into-haystack-logo.png" />
 </p>
